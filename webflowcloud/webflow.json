@@ -3,7 +3,8 @@
     "framework": "nextjs"
   },
   "devlink": {
-    "rootDir": "./src/devlink",
+    "siteId": "68d32a56014e95c965aa77b1",
+    "rootDir": "src/devlink",
     "cssModules": true
   },
   "telemetry": {
